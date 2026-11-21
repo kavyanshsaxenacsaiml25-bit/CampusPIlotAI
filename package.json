@@ -1,0 +1,25 @@
+{
+  "name": "campuspilot-ai",
+  "version": "1.0.0",
+  "description": "CampusPilot AI - One Campus. One Intelligent Workspace. Unified Multi-Campus AI Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "campuspilot",
+    "ai",
+    "multi-campus",
+    "campus-os",
+    "voice-ai",
+    "autonomous-agents",
+    "hackathon",
+    "astranova"
+  ],
+  "author": "Team AstraNova (Priyanshi Mishra, Kavyansh Saxena, Anushka Shukla, Dhruv Mishra)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^18.0.10"
+  }
+}
